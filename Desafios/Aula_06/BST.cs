@@ -125,7 +125,7 @@ public Node? FindMax()
     return FindMinRecursive(node.Esquerda);
 }
 
-Iterativo:
+//Iterativo:
      public Node? FindMin()
         {
             if(Raiz == null)
