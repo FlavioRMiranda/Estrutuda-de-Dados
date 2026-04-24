@@ -92,17 +92,17 @@ public Node? FindMax()
 }
 
 //Iterativo
-        // public Node? FindMax()
-        // {
-        //     if(Raiz == null)
-        //       return null;
-        // Node current = Raiz;
-        // while(current.Direita != null)
-        //     {
-        //         current = current.Direita;
-        //     }
-        //     return current;
-        // }
+        public Node? FindMax()
+        {
+            if(Raiz == null)
+              return null;
+        Node current = Raiz;
+        while(current.Direita != null)
+            {
+                current = current.Direita;
+            }
+            return current;
+        }
 
 
 //Node Minimo(): retorna o menor valor da árvore (faça recursivo e iterativo)
@@ -125,18 +125,18 @@ public Node? FindMax()
     return FindMinRecursive(node.Esquerda);
 }
 
-//Iterativo:
-    //  public Node? FindMin()
-    //     {
-    //         if(Raiz == null)
-    //           return null;
-    //     Node current = Raiz;
-    //     while(current.Esquerda != null)
-    //         {
-    //             current = current.Esquerda;
-    //         }
-    //         return current;
-    //     }
+Iterativo:
+     public Node? FindMin()
+        {
+            if(Raiz == null)
+              return null;
+        Node current = Raiz;
+        while(current.Esquerda != null)
+            {
+                current = current.Esquerda;
+            }
+            return current;
+        }
  
 
       
