@@ -1,0 +1,15 @@
+C:\Computer_Science\Estrutuda de Dados\Desafios\Aula_06\bin\Debug\net10.0\Desafios.exe
+C:\Computer_Science\Estrutuda de Dados\Desafios\Aula_06\bin\Debug\net10.0\Desafios.deps.json
+C:\Computer_Science\Estrutuda de Dados\Desafios\Aula_06\bin\Debug\net10.0\Desafios.runtimeconfig.json
+C:\Computer_Science\Estrutuda de Dados\Desafios\Aula_06\bin\Debug\net10.0\Desafios.dll
+C:\Computer_Science\Estrutuda de Dados\Desafios\Aula_06\bin\Debug\net10.0\Desafios.pdb
+C:\Computer_Science\Estrutuda de Dados\Desafios\Aula_06\obj\Debug\net10.0\Desafios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Computer_Science\Estrutuda de Dados\Desafios\Aula_06\obj\Debug\net10.0\Desafios.AssemblyInfoInputs.cache
+C:\Computer_Science\Estrutuda de Dados\Desafios\Aula_06\obj\Debug\net10.0\Desafios.AssemblyInfo.cs
+C:\Computer_Science\Estrutuda de Dados\Desafios\Aula_06\obj\Debug\net10.0\Desafios.csproj.CoreCompileInputs.cache
+C:\Computer_Science\Estrutuda de Dados\Desafios\Aula_06\obj\Debug\net10.0\Desafios.sourcelink.json
+C:\Computer_Science\Estrutuda de Dados\Desafios\Aula_06\obj\Debug\net10.0\Desafios.dll
+C:\Computer_Science\Estrutuda de Dados\Desafios\Aula_06\obj\Debug\net10.0\refint\Desafios.dll
+C:\Computer_Science\Estrutuda de Dados\Desafios\Aula_06\obj\Debug\net10.0\Desafios.pdb
+C:\Computer_Science\Estrutuda de Dados\Desafios\Aula_06\obj\Debug\net10.0\Desafios.genruntimeconfig.cache
+C:\Computer_Science\Estrutuda de Dados\Desafios\Aula_06\obj\Debug\net10.0\ref\Desafios.dll

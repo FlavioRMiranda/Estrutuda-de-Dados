@@ -76,8 +76,11 @@ namespace BST
 //Node Maximo(): retorna o maior valor da árvore (faça recursivo e iterativo)
     
     //Recursivo
-
-    public Node? FindMax(Node? node)
+public Node? FindMax()
+{
+    return FindMaxRecursive(Raiz);
+}
+    private  Node? FindMaxRecursive(Node? node)
 {
     if (node == null)
         return null;
@@ -85,28 +88,33 @@ namespace BST
     if (node.Direita == null)
         return node;
 
-    return FindMax(node.Direita);
+    return FindMaxRecursive(node.Direita);
 }
 
 //Iterativo
-        public Node? FindMax()
-        {
-            if(Raiz == null)
-              return null;
-        Node current = Raiz;
-        while(current.Direita != null)
-            {
-                current = current.Direita;
-            }
-            return current;
-        }
+        // public Node? FindMax()
+        // {
+        //     if(Raiz == null)
+        //       return null;
+        // Node current = Raiz;
+        // while(current.Direita != null)
+        //     {
+        //         current = current.Direita;
+        //     }
+        //     return current;
+        // }
 
 
 //Node Minimo(): retorna o menor valor da árvore (faça recursivo e iterativo)
 
     //Recursivo:
 
-    public Node? FindMin(Node? node)
+    public Node? FindMin()
+{
+    return FindMinRecursive(Raiz);
+}
+
+    private Node? FindMinRecursive(Node? node)
 {
     if (node == null)
         return null;
@@ -114,21 +122,21 @@ namespace BST
     if (node.Direita == null)
         return node;
 
-    return FindMin(node.Esquerda);
+    return FindMinRecursive(node.Esquerda);
 }
 
 //Iterativo:
-     public Node? FindMin()
-        {
-            if(Raiz == null)
-              return null;
-        Node current = Raiz;
-        while(current.Esquerda != null)
-            {
-                current = current.Esquerda;
-            }
-            return current;
-        }
+    //  public Node? FindMin()
+    //     {
+    //         if(Raiz == null)
+    //           return null;
+    //     Node current = Raiz;
+    //     while(current.Esquerda != null)
+    //         {
+    //             current = current.Esquerda;
+    //         }
+    //         return current;
+    //     }
  
 
       

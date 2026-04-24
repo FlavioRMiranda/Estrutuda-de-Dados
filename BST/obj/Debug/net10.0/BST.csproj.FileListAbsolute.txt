@@ -1,0 +1,5 @@
+C:\Computer_Science\Estrutuda de Dados\BST\obj\Debug\net10.0\BST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Computer_Science\Estrutuda de Dados\BST\obj\Debug\net10.0\BST.AssemblyInfoInputs.cache
+C:\Computer_Science\Estrutuda de Dados\BST\obj\Debug\net10.0\BST.AssemblyInfo.cs
+C:\Computer_Science\Estrutuda de Dados\BST\obj\Debug\net10.0\BST.csproj.CoreCompileInputs.cache
+C:\Computer_Science\Estrutuda de Dados\BST\obj\Debug\net10.0\BST.sourcelink.json

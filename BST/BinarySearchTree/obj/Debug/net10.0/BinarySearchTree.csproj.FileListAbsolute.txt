@@ -1,0 +1,15 @@
+C:\Computer_Science\Estrutuda de Dados\BST\BinarySearchTree\obj\Debug\net10.0\BinarySearchTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Computer_Science\Estrutuda de Dados\BST\BinarySearchTree\obj\Debug\net10.0\BinarySearchTree.AssemblyInfoInputs.cache
+C:\Computer_Science\Estrutuda de Dados\BST\BinarySearchTree\obj\Debug\net10.0\BinarySearchTree.AssemblyInfo.cs
+C:\Computer_Science\Estrutuda de Dados\BST\BinarySearchTree\obj\Debug\net10.0\BinarySearchTree.csproj.CoreCompileInputs.cache
+C:\Computer_Science\Estrutuda de Dados\BST\BinarySearchTree\obj\Debug\net10.0\BinarySearchTree.sourcelink.json
+C:\Computer_Science\Estrutuda de Dados\BST\BinarySearchTree\bin\Debug\net10.0\BinarySearchTree.exe
+C:\Computer_Science\Estrutuda de Dados\BST\BinarySearchTree\bin\Debug\net10.0\BinarySearchTree.deps.json
+C:\Computer_Science\Estrutuda de Dados\BST\BinarySearchTree\bin\Debug\net10.0\BinarySearchTree.runtimeconfig.json
+C:\Computer_Science\Estrutuda de Dados\BST\BinarySearchTree\bin\Debug\net10.0\BinarySearchTree.dll
+C:\Computer_Science\Estrutuda de Dados\BST\BinarySearchTree\bin\Debug\net10.0\BinarySearchTree.pdb
+C:\Computer_Science\Estrutuda de Dados\BST\BinarySearchTree\obj\Debug\net10.0\BinarySearchTree.dll
+C:\Computer_Science\Estrutuda de Dados\BST\BinarySearchTree\obj\Debug\net10.0\refint\BinarySearchTree.dll
+C:\Computer_Science\Estrutuda de Dados\BST\BinarySearchTree\obj\Debug\net10.0\BinarySearchTree.pdb
+C:\Computer_Science\Estrutuda de Dados\BST\BinarySearchTree\obj\Debug\net10.0\BinarySearchTree.genruntimeconfig.cache
+C:\Computer_Science\Estrutuda de Dados\BST\BinarySearchTree\obj\Debug\net10.0\ref\BinarySearchTree.dll

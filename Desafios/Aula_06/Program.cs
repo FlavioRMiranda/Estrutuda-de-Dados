@@ -11,14 +11,15 @@ namespace BST
             bst.Inserir(3);
             bst.Inserir(13);
 
-            bst.PrintInOrder();
-            Console.WriteLine("==============");
+   //         bst.PrintInOrder();
+  //          Console.WriteLine("==============");
       Node? max = bst.FindMax();
       Console.WriteLine(max.Chave);
        Console.WriteLine("==============");
+       
           Node? min = bst.FindMin();
       Console.WriteLine(min.Chave);
-          bst.CoolPrint();
+ //         bst.CoolPrint();
         }
     }
 }
