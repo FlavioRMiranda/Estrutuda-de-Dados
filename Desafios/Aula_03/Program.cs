@@ -17,7 +17,7 @@ class Program
  
     bst.StructurePrint(bst.Root, 0);
 
-    int searchedValue = 62;
+    int searchedValue = 61;
 
     Node search = bst.Search(searchedValue);
 
