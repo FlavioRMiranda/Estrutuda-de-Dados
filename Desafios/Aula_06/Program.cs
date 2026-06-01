@@ -7,18 +7,17 @@ namespace BST
         static void Main(string[] args)
         {
             BST bst = new BST();
-            bst.Inserir(10);
-            bst.Inserir(3);
-            bst.Inserir(13);
+            bst.Inserir(40);
+            bst.Inserir(20);
 
-   //         bst.PrintInOrder();
-  //          Console.WriteLine("==============");
+
+         bst.CoolPrint();
+           Console.WriteLine("==============");
       Node? max = bst.FindMax();
-      Console.WriteLine(max.Chave);
-       Console.WriteLine("==============");
-       
-          Node? min = bst.FindMin();
-      Console.WriteLine(min.Chave);
+     Console.WriteLine("O node com a maior chave é o : {0}",max.Chave);
+      Console.WriteLine("==============");
+     //      Node? min = bst.FindMin();
+   //   Console.WriteLine(min.Chave);
  //         bst.CoolPrint();
         }
     }
